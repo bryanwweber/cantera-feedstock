@@ -1,7 +1,7 @@
 About cantera-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/conda-forge-cantera-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cantera-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cantera.org
 
@@ -26,8 +26,8 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/conda-forge-cantera-feedstock?branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11466&branchName=main">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cantera-feedstock?branchName=main">
           </a>
         </summary>
         <table>
